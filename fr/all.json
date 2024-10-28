@@ -564,6 +564,32 @@
       "ENTER_TO_OUTDENT": {
         "LABEL": "Lorsque vous appuyez sur Entrée sur un Rem sans contenu qui n'est pas au niveau supérieur du document, indentez d'un niveau. (Si cette option est désactivée, reste au même niveau et laisse un Rem vide.)",
         "TITLE": "Appuyer sur Entrée pour désindenter"
+      },
+      "SPLIT_WITH_ALT_ENTER": {
+        "DESCRIPTION": {
+          "MAC": "Diviser le texte en Rems séparés en appuyant sur Opt+Retour au cœur du Rem.",
+          "PC": "Diviser le texte en Rems séparés en appuyant sur Alt+Entrée au cœur du Rem."
+        },
+        "TITLE": {
+          "MAC": "Diviser avec Opt-Retour",
+          "PC": "Diviser avec Alt+Entrée"
+        }
+      }
+    },
+    "NOTIFICATIONS": {
+      "DESCRIPTIONS": {
+        "ARTICLE_VIEWS": {
+          "LABEL": "Votre document partagé a la côte !",
+          "TITLE": "Notifications de vues du document"
+        },
+        "DOCUMENT_ADDED_TO_GROUP": {
+          "LABEL": "Un document a été ajouté à un de vos groupes",
+          "TITLE": "Document ajouté aux notifications du groupe"
+        },
+        "INVITE": {
+          "LABEL": "Vous êtes invité dans un groupe",
+          "TITLE": "Notifications d'invitation"
+        }
       }
     }
   },
